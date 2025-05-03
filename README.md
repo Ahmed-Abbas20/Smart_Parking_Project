@@ -86,7 +86,7 @@ Designed with **Software Ideas Modeler** and include:
 - [Ahmed Abbas](https://github.com/Ahmed-Abbas20)
 - [Ahmed Nasser Mohamed](https://github.com/AHMED-NASSER-Mohmaed)
 
-## 📄 License
+## 📄 Licenses
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
