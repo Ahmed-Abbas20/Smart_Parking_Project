@@ -74,10 +74,6 @@ pip install keras
 backend/ml/keras_model.py
 ```
 
-## 📸 Screenshots
-
-_Add UI samples and ML prediction flow screenshots here._
-
 ## 🧠 UML Diagrams
 
 Designed with **Software Ideas Modeler** and include:
